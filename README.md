@@ -1,4 +1,8 @@
 # Samples of my Tableau Dashboards Visualizations
+[![made-with-tableau](https://img.shields.io/badge/Made%20with-Tableau-lightblue.svg)](https://www.python.org/)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Generic badge](https://img.shields.io/badge/STATUS-INPROGRESS-<COLOR>.svg)](https://shields.io/)
+[![GitHub license](https://img.shields.io/github/license/teyang-lau/Heart_Disease_Prediction.svg)](https://github.com/teyang-lau/Heart_Disease_Prediction/blob/master/LICENSE)
 
 ### Here I display some static images of my Tableau dashboards. To get a better view of them with interactive functions, click on them and it will link to the tableau dashboard. Try it out! ###
 
